@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleTweet</string>
+    <string name="login_label">Log in</string>
+    <string name="intent_scheme">oauth</string>
+    <string name="intent_host">cprest</string>
+    <string name="this_is_my_tweet">This is my tweet.</string>
+    <string name="mizzacey">MizzAcey</string>
+    <string name="avi">AVI</string>
+    <string name="time">Time</string>
+
+</resources>
